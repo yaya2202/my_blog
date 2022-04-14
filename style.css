@@ -1,0 +1,53 @@
+.sessao_viagem{
+    border: 1px solid lightgray;
+    text-align: center;
+}
+.sessao_viagem img{
+     width: 100%;
+}
+.sessao_viagem p,.sessao_viagem h5{
+   margin: 20px;
+}
+/* .sessao_viagem span{
+    padding: 2px 4px;
+    font-size: 90%;
+    color: #fff;
+    background-color: #333;
+    border-radius: 3px;
+} */
+.mynav{
+    position:sticky;top:0;z-index:99999;
+    text-align: center;
+}
+#contact iframe
+{
+    width: 100%;
+}
+.sessao_series{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+.sessao_series i{
+    float: right;
+}
+.series span{
+   color: orange;
+}
+#umbrella img{
+    height: 500px;
+}
+#outerbanks img{
+    height: 500px;
+}
+h2{
+    margin-top: 100px !important;
+}
+#contact{
+ margin-top: 50px;
+}
+#pequeno{
+  width: 348px;
+}
+
